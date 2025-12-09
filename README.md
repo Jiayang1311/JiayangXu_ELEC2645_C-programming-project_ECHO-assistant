@@ -11,7 +11,7 @@ gcc main.c funcs.c -o main.out -lm
 
 (the -lm is required to link the math library). You can also use make -B to force a rebuild using the provided Makefile.
 
-Then run the code with ./main.out
+Then run the code with ./main.out or main.out
 
 And you can also delete the file by del main.out
 
