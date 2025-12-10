@@ -24,3 +24,7 @@ The ECHO Learning Assistant includes the following key features:
     Progress tracking that records completion status and quiz performance.
     Personalized reports generated as text files with student performance summary.
     User-friendly interface art logo and intuitive menu navigation.
+
+Reference:
+Knuth, Donald E. (1969). Seminumerical algorithms. The Art of Computer Programming. Vol. 2. Reading, MA: Addison–Wesley. pp. 139–140.
+Wikipedia. (2023). Fisher–Yates shuffle. Wikipedia, The Free Encyclopedia. Available at: https://en.wikipedia.org/wiki/Fisher–Yates_shuffle (Accessed: 23 January 2025).
